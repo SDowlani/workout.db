@@ -2,8 +2,6 @@
 
 By Sahil Dowlani
 
-Video overview: <https://www.youtube.com/watch?v=1Pe7Etvnun8>
-
 ## Scope
 
 * The RBDMS chosen was SQLite as the concept  is appropriate for a local single user application.
