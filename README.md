@@ -8,4 +8,4 @@
 
 ### Overview
 * For a technical approach check out `DESIGN.md` <https://github.com/SDowlani/workout.db/blob/main/DESIGN.md>
-* For a high-level approach check out the video overview: <https://www.youtube.com/watch?v=1Pe7Etvnun8>
+* For a high-level approach check out this video: <https://www.youtube.com/watch?v=1Pe7Etvnun8>
