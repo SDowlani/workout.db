@@ -137,5 +137,5 @@ The optimizations present in this database are in the form of indexes and views,
 
 ## Limitations
 
-* In the current schema a workout is tailored exclusively to a person, the creation of  `Global` workouts which could be assigned to various people then isn't possible. `Global` workouts would require a shift to a many-to-many relation between people and workouts.
+* In the current schema a workout is tailored exclusively to a person, the creation of  `Global` workouts which could be assigned to many people then isn't possible. `Global` workouts would require a shift to a many-to-many relation between people and workouts.
 
