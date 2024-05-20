@@ -112,7 +112,7 @@ The `assigns` table includes:
 
 The below entity relation diagram illustrates the relations between entities in the database.
 
-![ER Diagram](diagram.png)
+![ER Diagram](entity_relation_diagram.png)
 
 As detailed by the diagram:
 * `people` and `workouts` share a one-to-many relationship. A person can save none or multiple workouts, but a single workout can only be saved by one person.
